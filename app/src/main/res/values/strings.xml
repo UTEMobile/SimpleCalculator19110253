@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="over">Quá lớn</string>
+    <string name="lack">Thiếu biến</string>
+    <string name="result">%f</string>
+    <string name="wrong">Nhập sai kiểu dữ liệu</string>
+</resources>
